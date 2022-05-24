@@ -1,2 +1,5 @@
-selenium
 pytest
+selenium
+webdriver-manager
+pytest-xdist
+chromedriver-binary

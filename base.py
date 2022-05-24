@@ -1,4 +1,5 @@
 class BaseTest:
+
     @staticmethod
     def first_method():
         a = 1
